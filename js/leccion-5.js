@@ -1,5 +1,6 @@
 // Se crea un objeto con propiedades y valores
 const planeta = {
+    nombre: "tatooine",
     color: "cafe",
     clima: "desertico",
     poblacion: 200000,
