@@ -16,15 +16,15 @@ Repositorio desarrollado para el **Módulo 3: Aplicación de consola**, donde se
 
 El proyecto sigue la siguiente estructura:
 
-PM3/
-├── index.html              # Interfaz principal de la consola
-├── js/
-│   ├── leccion-1.js        # Lógica de la lección 1
-│   ├── leccion-2.js        # Lógica de la lección 2
-│   ├── leccion-3.js        # Lógica de la lección 3
-│   ├── leccion-4.js        # Lógica de la lección 4
-│   └── leccion-5.js        # Lógica de la lección 5
-└── README.md               # Documentación del proyecto
+- PM3/
+    - index.html            # Interfaz principal de la consola
+    - js/
+        - leccion-1.js      # Lógica de la lección 1
+        - leccion-2.js      # Lógica de la lección 2
+        - leccion-3.js      # Lógica de la lección 3
+        - leccion-4.js      # Lógica de la lección 4
+        - leccion-5.js      # Lógica de la lección 5
+    - README.md             # Documentación del proyecto
 
 ---
 
